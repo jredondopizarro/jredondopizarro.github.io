@@ -1,5 +1,5 @@
 ---
 layout: post
-title: Hellow world!
+title: Hello world!
 ---
-Hellow world!
+Hello world!
